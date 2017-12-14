@@ -23,7 +23,6 @@ It took a few years of following other opportunities in the non-profit world (I 
 Down to the nitty-gritty. Here’s what I know:
 
 - Front-End Development
-- 
     - HTML
     - CSS (and Sass)
     - JavaScript
@@ -31,14 +30,12 @@ Down to the nitty-gritty. Here’s what I know:
     - Bootstrap
 
 - WordPress development
-- 
     - Theme development
     - Genesis
 
 - Responsive, mobile-first design
 - Project management
 - Remote work
-- 
     - Time management while working from home
     - Working under a senior developer remotely
 
