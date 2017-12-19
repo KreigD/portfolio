@@ -43,4 +43,8 @@ You can all of my projects on [my portfolio site](https://kreigd.com). Stay tune
 
 ## The WHEN
 
-I’m currently taking new contracts, and I’m available for interviews most any time. I’d love to chat with you, so let’s get in touch! 
+I’m currently taking new contracts, and I’m available for interviews most any time. I’d love to chat with you, so let’s get in touch!
+
+## Resources
+
+Please check out my profile to see some templates I use to get started on projects as well as things I'm tinkering with or contributing to.
