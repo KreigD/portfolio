@@ -1,14 +1,12 @@
 # Portfolio
 
-Welcome to my web development portfolio! Thank you for taking a few moments to browse, and please get in touch with me through [email](mailto:kreig.e.durham@gmail.com), social media, or the contact form on my [personal portfolio website](https://kreigd.com).
+Welcome to my web development portfolio! Thank you for taking a few moments to browse, and please get in touch with me through [email](mailto:kreig.e.durham@gmail.com), [Twitter](https://twitter.com/KreigD_WebDev), or the contact form on my [personal portfolio website](https://kreigd.com).
 
 ## The WHY
 
 Before I even get into who I am and what I do, let me explain _why_ I do web development. As a kid, I was alway taking apart my electronic toys, trying to figure out how they worked, and putting them back together. Occasionally, they’d even work once I reassembled them! Then, when my parents bought our first computer, I was hooked. It ran Windows 3.1. I learned pretty quickly some of those foundational principals of how computers worked. Some of my fondest memories from that era are of messing with the way the computer did stuff via the command line.
 
-From then on, computers were my biggest fascination. Well into my early twenties, I was constantly toying with old computers and trying to learn more and more about tech. A few years ago, I was in a dead end retail job, wishing for something worthwhile to do. I did a lot of reading and decided that 
-
-since the future was moving more and more to the web, then the web was where I needed to be.
+From then on, computers were my biggest fascination. Well into my early twenties, I was constantly toying with old computers and trying to learn more and more about tech. A few years ago, I was in a dead end retail job, wishing for something worthwhile to do. I did a lot of reading and decided that since the future was moving more and more to the web, then the web was where I needed to be.
 
 ## The WHO
 
@@ -38,6 +36,7 @@ Down to the nitty-gritty. Here’s what I know:
 - Remote work
     - Time management while working from home
     - Working under a senior developer remotely
+    - Version control with Git
 
 You can all of my projects on [my portfolio site](https://kreigd.com). Stay tuned for blog posts soon where I go through how I solved some rather unique problems in real-world projects.
 
