@@ -8,3 +8,6 @@ var docWidth = document.documentElement.offsetWidth;
     }
   }
 );
+
+// A very useful code snippet from Chris Coyier at CSS-Tricks
+// https://css-tricks.com/findingfixing-unintended-body-overflow/
