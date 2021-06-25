@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to my web development portfolio! Thank you for taking a few moments to browse, and please get in touch with me through [email](mailto:kreig.e.durham@gmail.com), [Twitter](https://twitter.com/KreigD_WebDev), or the contact form on my [personal portfolio website](https://kreigd.com).
+Welcome to my web development portfolio! Thank you for taking a few moments to browse, and please get in touch with me through [email](mailto:kreig.e.durham@gmail.com), [Twitter](https://twitter.com/KreigDurham), or the contact form on my [personal portfolio website](https://kreigd.com).
 
 ## The WHY
 
@@ -10,11 +10,11 @@ From then on, computers were my biggest fascination. Well into my early twenties
 
 ## The WHO
 
-I am a freelance web developer with just over a year of real-world experience under my belt. My current home is in the Portland metro area in Oregon, but I was born and raised in northwest New Mexico (yes, it is a state, and no, I do not speak Spanish). I’ve got an amazing wife and two wonderful little boys. and they always get top priority in my world. I’m an avid reader, sci-fi/fantasy fan, and gamer. Most of my life, I have always done very well with teaching myself new things, so I’m well-suited to the ever-changing demands of the web.
+I am a full time front-end developer who previously did freelance, and I have been professionally programming since 2017. My current home is Fresno, California. I recently moved from Portland, Oregon, where I lived for four years, but I was born and raised in New Mexico. I’ve got an amazing wife and two wonderful little boys. and they always get top priority in my world. I’m an avid reader, sci-fi/fantasy fan, and gamer. Most of my life, I have always done very well with teaching myself new things, so I’m well-suited to the ever-changing demands of the web.
 
 ## The HOW
 
-It took a few years of following other opportunities in the non-profit world (I was a youth pastor for a few years), but eventually my path led back to learning web design and development. I finally took the plunge and started learning through the wonderful folks at Team Treehouse. In January 2017 I landed my first legitimate client (a small WordPress-powered site for a small apartment building). Soon after I landed another client, and a couple more. I’ve now got a fairly steady stream of work, and I’m always learning new things as the web grows and changes.
+It took a few years of following other opportunities in the non-profit world (I was a youth pastor for a few years), but eventually my path led back to learning web design and development. I finally took the plunge and started learning through the wonderful folks at Team Treehouse. In January 2017 I landed my first legitimate client (a small WordPress-powered site for a small apartment building). Soon after I landed another client, and a couple more, and so on. In late 2019, I was able to transition into full-time work with Little Rhino, LLC, a small WordPress agency based in Seattle.
 
 ## The WHAT
 
@@ -32,17 +32,17 @@ Down to the nitty-gritty. Here’s what I know:
     - Genesis
 
 - Responsive, mobile-first design
+- Version control with Git
 - Project management
 - Remote work
     - Time management while working from home
     - Working under a senior developer remotely
-    - Version control with Git
 
 You can all of my projects on [my portfolio site](https://kreigd.com). Stay tuned for blog posts soon where I go through how I solved some rather unique problems in real-world projects.
 
 ## The WHEN
 
-I’m currently taking new contracts, and I’m available for interviews most any time. I’d love to chat with you, so let’s get in touch!
+I’m currently employed, but I love new challenges and opportunities. I’d love to chat with you, so let’s get in touch!
 
 ## Resources
 
