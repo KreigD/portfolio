@@ -10,7 +10,7 @@ From then on, computers were my biggest fascination. Well into my early twenties
 
 ## The WHO
 
-I am a full time front-end developer who previously did freelance, and I have been professionally programming since 2017. My current home is Fresno, California. I recently moved from Portland, Oregon, where I lived for four years, but I was born and raised in New Mexico. I’ve got an amazing wife and two wonderful little boys. and they always get top priority in my world. I’m an avid reader, sci-fi/fantasy fan, and gamer. Most of my life, I have always done very well with teaching myself new things, so I’m well-suited to the ever-changing demands of the web.
+I am a full time front-end developer who previously did freelance, and I have been professionally programming since 2017. My current home is Farmington, New Mexico. Before that I lived in Fresno, California and Portland, Oregon, but I was born and raised here in New Mexico. I’ve got an amazing wife and two wonderful little boys. and they always get top priority in my world. I’m an avid reader, sci-fi/fantasy fan, and gamer. Most of my life, I have always done very well with teaching myself new things, so I’m well-suited to the ever-changing demands of the web. Recently I've also gotten back into writing fiction, some of which you can find at [kreig.substack.com](https://kreig.substack.com).
 
 ## The HOW
 
